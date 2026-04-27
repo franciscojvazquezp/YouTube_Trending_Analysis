@@ -56,8 +56,9 @@ A percentage-based view of the same data — normalizing volume differences betw
 ```
 JV-YouTube/
 │
-├── Youtube.twb          # Tableau workbook file
-├── README.md            # Project documentation
+├── Youtube.twb                                            # Tableau workbook file
+├── README.md                                              # Project documentation
+├── YouTube_Trending_Analysis_JavierVazquez.pdf            # Executive report
 ```
 
 ---
