@@ -58,7 +58,7 @@ JV-YouTube/
 │
 ├── Youtube.twb                                            # Tableau workbook file
 ├── README.md                                              # Project documentation
-├── YouTube_Trending_Analysis_JavierVazquez.pdf            # Executive report
+├── Trending_Analysis.pdf                                  # Executive report
 ```
 
 ---
